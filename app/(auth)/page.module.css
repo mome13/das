@@ -5,3 +5,12 @@
   align-items: center;
   min-height: 100vh;
 }
+
+.paper {
+  width: 100%;
+  max-width: 1400px;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 2rem;
+  border-radius: 9999px;
+}
